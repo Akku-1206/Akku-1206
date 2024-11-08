@@ -1,5 +1,6 @@
 # 💫 About Me:
-As a data analyst, my mission is to bridge the gap between data and decision-making. <br>I strive to simplify complexity, uncover meaningful patterns, and transform raw data into valuable insights that empower smarter choices. <br>Data analysis goes beyond numbers—it's about creating impact and driving informed actions.<br>🔍 Currently deepening my skills in Python, SQL, and Power BI.<br>📊 Exploring new dimensions in statistics and machine learning.<br>🤝 Open to data analysis roles and collaborations. <br>Feel free to connect
+As a data analyst, my mission is to bridge the gap between data and decision-making.I strive to simplify complexity, uncover meaningful patterns, and transform raw data into valuable insights that empower smarter choices. Data analysis goes beyond numbers—it's about creating impact and driving informed actions.<br>
+🔍 Currently deepening my skills in Python, SQL, and Power BI.<br>📊 Exploring new dimensions in statistics and machine learning.<br>🤝 Open to data analysis roles and collaborations.Feel free to connect
 
 
 # 💻 Tech Stack:
